@@ -8,7 +8,12 @@
     <record id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" author="" url="" tags="MyTetra, Qt" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
    </recordtable>
    <node crypt="" id="1501227405qpzbblxn4h" name="PHP">
-    <node crypt="" id="1501227420epoi7w0aco" name="Composer"/>
+    <node crypt="" id="1501227420epoi7w0aco" name="Composer">
+     <recordtable>
+      <record id="1501229378eykq24kkx2" name="Что за зверь composer" author="" url="" tags="composer" ctime="20170728110938" dir="1501229378j0rawn9opc" file="text.html"/>
+      <record id="1501229961ofqbafa106" name="Команды" author="" url="https://habrahabr.ru/post/145946/" tags="" ctime="20170728111921" dir="1501229961p6xgx3oi4i" file="text.html"/>
+     </recordtable>
+    </node>
     <node crypt="" id="15012274307c3780q3h6" name="artisan">
      <recordtable>
       <record id="1501227665eiij91mstw" name="Команды для работы" author="" url="http://laravel.su/docs/5.0/migrations" tags="artisan, миграции, laravel" ctime="20170728104105" dir="1501227665xqlj0ur8ls" file="text.html"/>
