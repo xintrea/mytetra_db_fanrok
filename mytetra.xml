@@ -23,5 +23,12 @@
     </node>
    </node>
   </node>
+  <node crypt="" id="15012359905zedsjr3wa" name="Консоль">
+   <node crypt="" id="15012360029bhlohbxnm" name="windows">
+    <recordtable>
+     <record id="1501236033lp8iph5jnm" name="Консольные команды" author="" url="http://nicothin.pro/page/console-windows" tags="" ctime="20170728130033" dir="1501236033cd66xu4w7t" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
  </content>
 </root>
