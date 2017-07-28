@@ -18,6 +18,7 @@
     <node crypt="" id="15012274307c3780q3h6" name="artisan">
      <recordtable>
       <record id="1501227665eiij91mstw" name="Команды для работы" author="" url="http://laravel.su/docs/5.0/migrations" tags="artisan, миграции, laravel" ctime="20170728104105" dir="1501227665xqlj0ur8ls" file="text.html"/>
+      <record id="1501234584o7qdeab051" name="Авторизация ползователей и создание представлений" author="" url="https://laravel.ru/docs/v5/authentication" tags="" ctime="20170728123624" dir="1501234584vmlgujae0m" file="text.html"/>
      </recordtable>
     </node>
    </node>
