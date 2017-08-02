@@ -21,6 +21,11 @@
       <record id="1501234584o7qdeab051" name="Авторизация ползователей и создание представлений" author="" url="https://laravel.ru/docs/v5/authentication" tags="" ctime="20170728123624" dir="1501234584vmlgujae0m" file="text.html"/>
      </recordtable>
     </node>
+    <node crypt="" id="1501661039k1r96l65yd" name="Laravel">
+     <recordtable>
+      <record id="1501661092bvyrwxdsbe" name="Что такое ларавел" author="" url="https://laravel.ru/, https://laravel.com/" tags="" ctime="20170802110452" dir="1501661092c07ly7rs3l" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
    <node crypt="" id="1501247563omcdmt1stl" name="Шаблонизаторы">
     <node crypt="" id="1501247570nkd5ru4zbv" name="blade">
