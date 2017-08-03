@@ -35,6 +35,15 @@
      </recordtable>
     </node>
    </node>
+   <node crypt="" id="1501761623cq5anfa8ki" name="GIT">
+    <recordtable>
+     <record id="1501761683di9ycli4uw" name="Визуализация изменений gource.io" author="" url="http://gource.io/" tags="" ctime="20170803150123" dir="1501761683o9ry8fqfkm" file="text.html">
+      <files>
+       <file id="1501761716ny66bkaib0" fileName="gource-0.42-setup.exe" type="file"/>
+      </files>
+     </record>
+    </recordtable>
+   </node>
   </node>
   <node crypt="" id="15012359905zedsjr3wa" name="Консоль">
    <node crypt="" id="15012360029bhlohbxnm" name="windows">
