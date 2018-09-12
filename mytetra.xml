@@ -35,11 +35,6 @@
      </recordtable>
     </node>
    </node>
-<<<<<<< HEAD
-   <node crypt="" id="1501702429qfniod4ruc" name="QT">
-    <recordtable>
-     <record id="15017024959nozatqhu9" name="Как сделать событие на кнопку" author="" url="" tags="" ctime="20170802223455" dir="1501702495cucbwtz54h" file="text.html"/>
-=======
    <node crypt="" id="1501761623cq5anfa8ki" name="GIT">
     <recordtable>
      <record id="1501761683di9ycli4uw" name="Визуализация изменений gource.io" author="" url="http://gource.io/" tags="" ctime="20170803150123" dir="1501761683o9ry8fqfkm" file="text.html">
@@ -47,7 +42,6 @@
        <file id="1501761716ny66bkaib0" fileName="gource-0.42-setup.exe" type="file"/>
       </files>
      </record>
->>>>>>> 23f1735f10d1873734df185a9f1991fe4219a66d
     </recordtable>
    </node>
   </node>
